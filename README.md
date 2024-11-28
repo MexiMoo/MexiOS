@@ -4,7 +4,7 @@ My own spin on a linux desktop system
 
 # Wiki is comming soon
 
-My take on a Linux enviroment that works with productive task and gaming!
+My take on a Linux enviroment that works with productive tasks and gaming!
 
 # Screenshots
 ![Desktop](https://github.com/user-attachments/assets/68de4b3b-f7f5-4188-9139-d9b60f39f00d)
