@@ -11,5 +11,4 @@ My take on a Linux enviroment that works with productive task and gaming!
 Desktop enviroment
 
 ![Grounded](https://github.com/user-attachments/assets/3064920b-71c3-4ff9-9ed5-1b442dd5ed28)
-Game running on the linux enviroment
-Game: Grounded
+Game running on the linux enviroment | Game: Grounded
