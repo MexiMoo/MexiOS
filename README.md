@@ -1,6 +1,7 @@
 # MexiOS
 
 My own spin on a linux desktop system
+Based on Arch linux and KDE Plasma
 
 # Wiki is comming soon
 
