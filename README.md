@@ -3,7 +3,8 @@
 My own spin on a linux desktop system
 based on Arch linux and KDE Plasma
 
-# Wiki is comming soon
+# Wiki
+To install Linux on your very own device, hollow the wiki ![here](https://github.com/MexiMoo/MexiOS/wiki)! :D
 
 My take on a Linux enviroment that works with productive tasks and gaming!
 
